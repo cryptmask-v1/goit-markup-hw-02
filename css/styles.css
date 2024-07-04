@@ -13,7 +13,7 @@
   --dairy: #fcfcfc;
 }
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #434455;
   background-color: #ffffff;
@@ -29,6 +29,7 @@ body {
   letter-spacing: 0.02em;
 }
 .button {
+  font-family: "Roboto", sans-serif;
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
@@ -43,6 +44,7 @@ button:focus {
   background-color: #404bbf;
 }
 .logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
